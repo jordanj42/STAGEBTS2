@@ -1,0 +1,279 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [44.545731,4.686567]
+		},
+		"properties": {
+			"ardeche": true,
+			"drome": false,
+			"isere": false,
+			"loire": false,
+			"rhone": false,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": true,
+			"BP": false,
+			"PF": true,
+			"Vétérans": true,
+			"Compétition": false,
+			"AL": false,
+			"Jeunes": false,
+			"description": "Test1",
+			"title": "Ardèche",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.055376,5.064901]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": true,
+			"isere": false,
+			"loire": false,
+			"rhone": false,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": true,
+			"BP": false,
+			"PF": true,
+			"Vétérans": false,
+			"Compétition": false,
+			"AL": false,
+			"Jeunes": false,
+			"description": "Vault toilet",
+			"title": "Claude Lewis Sno-Park-USFS",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.419987,4.676802]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": false,
+			"loire": true,
+			"rhone": false,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": false,
+			"BP": false,
+			"PF": true,
+			"Vétérans": false,
+			"Compétition": false,
+			"AL": true,
+			"Jeunes": true,
+			"description": "Flush toilet",
+			"title": "Lost Creek",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.801717,4.868816]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": false,
+			"loire": false,
+			"rhone": true,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": true,
+			"BP": true,
+			"PF": true,
+			"Vétérans": false,
+			"Compétition": false,
+			"AL": false,
+			"Jeunes": false,
+			"description": "Vault toilet",
+			"title": "Hamaker",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [46.227638,2.213749]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": false,
+			"loire": false,
+			"rhone": false,
+			"savoie": false,
+			"hautesavoie": true,
+			"PingFun": false,
+			"BP": true,
+			"PF": true,
+			"Vétérans": true,
+			"Compétition": false,
+			"AL": false,
+			"Jeunes": false,
+			"description": "Vault toilet",
+			"title": "Huckleberry Mountain",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.666108,6.408276]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": false,
+			"loire": false,
+			"rhone": false,
+			"savoie": true,
+			"hautesavoie": false,
+			"PingFun": false,
+			"BP": false,
+			"PF": false,
+			"Vétérans": true,
+			"Compétition": true,
+			"AL": true,
+			"Jeunes": false,
+			"description": "Vault toilet",
+			"title": "Natural Bridge -USFS",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.61945,4.670411]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": false,
+			"loire": false,
+			"rhone": true,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": true,
+			"BP": false,
+			"PF": true,
+			"Vétérans": true,
+			"Compétition": true,
+			"AL": false,
+			"Jeunes": false,
+			"description": "",
+			"title": "Farewell Bend",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [ 45.191834,5.688109]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": true,
+			"loire": false,
+			"rhone": false,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": true,
+			"BP": false,
+			"PF": false,
+			"Vétérans": false,
+			"Compétition": true,
+			"AL": false,
+			"Jeunes": true,
+			"description": "Vault toilet",
+			"title": "Scott Creek",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [ 45.757279,4.813865]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": false,
+			"loire": false,
+			"rhone": true,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": false,
+			"BP": true,
+			"PF": true,
+			"Vétérans": false,
+			"Compétition": true,
+			"AL": false,
+			"Jeunes": false,
+			"description": "Vault toilet",
+			"title": "Thousand Springs Sno-Park-USFS",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.273199,5.923958]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": true,
+			"loire": false,
+			"rhone": false,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": false,
+			"BP": false,
+			"PF": false,
+			"Vétérans": false,
+			"Compétition": false,
+			"AL": true,
+			"Jeunes": true,
+			"description": "Vault toilet",
+			"title": "Union Creek",
+			"marker-size": "small"
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [45.873987,4.71037]
+		},
+		"properties": {
+			"ardeche": false,
+			"drome": false,
+			"isere": false,
+			"loire": false,
+			"rhone": true,
+			"savoie": false,
+			"hautesavoie": false,
+			"PingFun": true,
+			"BP": true,
+			"PF": true,
+			"Vétérans": false,
+			"Compétition": false,
+			"AL": false,
+			"Jeunes": true,
+			"description": "",
+			"title": "Farewell Bend Campground",
+			"marker-size": "small"
+		}
+	}]
+}
